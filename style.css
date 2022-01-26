@@ -1,0 +1,159 @@
+/* This is Body details */
+body {
+    margin: 0;
+    text-align: left;
+    width: 100%;
+    background-color:  rgb(226, 92, 92);
+}
+/* ******************************************************************************************* */
+/* This is 1st box details */
+.a {
+    margin: 0;
+    text-align: center;
+    height: 6cm;
+    margin-top: 40px;
+    width: 100%;
+    line-height: 2cm;
+}
+/* ******************************************************************************************* */
+/* This is h1 heading details */
+h1 {
+    color: black;
+    margin: 0 auto 0 auto;
+    font-family: 'Trade Winds';
+    font-size: 90px;   
+}
+/* ******************************************************************************************* */
+/* This is 1st paragraph details */
+p {
+    font-size: 30px;
+    font-family: 'Romanesco';
+}
+/* ******************************************************************************************* */
+h3 {
+    font-family: 'Trade Winds';
+}
+/* ******************************************************************************************* */
+/* This is 2nd box details */
+.b {
+    width: 100%;
+    height: 15cm;
+    border: none;
+    margin: 0;
+    position: absolute;
+    top: 9cm;
+    left: 0cm;
+}
+/* ******************************************************************************************* */
+/* This is Anime pic Under 2nd box details */
+.bb {
+    width: 17cm;
+    height: 15cm;
+    background-color: white;
+    border: solid black;
+    position: relative;
+    left: 9cm;
+}
+/* ******************************************************************************************* */
+/* This is 3rd box details */
+.c {
+    height: 9.5cm;
+    width: 100%;
+    position: absolute;
+    top: 28cm;
+    margin: 0;
+    text-align: center;
+}
+/* ******************************************************************************************* */
+/* This is 4th box details */
+.d {
+    width: 25cm;
+    background-color: rgb(226, 92, 92);;
+    position: absolute;
+    left: 190px;
+    top: 38cm;
+    height: 18cm;
+
+}
+/* ******************************************************************************************* */
+ /* This is my pic details */
+ .e {
+    width: 6cm;
+    height: 6cm;
+    position: relative;
+    left: 0;
+}
+/* ******************************************************************************************* */
+ /* This is gif details */
+ .h {
+     height: 6cm;
+     width: 6cm;
+     border: solid black;
+ }
+ /* ******************************************************************************************* */
+ /* This is 5th box details */
+ .i {
+     height: 6cm;
+     width: 100%;
+     background-color: rgb(43, 199, 152);
+     position: absolute;
+     top: 58.45cm;
+     text-align: center;
+     line-height: 10px;
+ }
+  /* ******************************************************************************************* */
+  .j {
+      text-decoration: underline;
+  }
+ /* ******************************************************************************************* */
+.f {
+    background-color: paleturquoise;
+    height: 8cm;
+    width: 25cm;
+    position: relative;
+    bottom: 0.45cm;
+}
+ /* ******************************************************************************************* */
+ .g {
+     background-color: paleturquoise;
+     height: 9cm;
+     width: 25cm;
+     margin-top: 0;
+     position: relative;
+     bottom: 20px;
+     text-align: center;
+ }
+ /* ******************************************************************************************* */
+ .k {
+     height: 4cm;
+     width: 4cm;
+     float: left;
+     margin-right: 30px;
+     position: relative;
+     top: 30px;
+ }
+  /* ******************************************************************************************* */
+
+
+
+
+ 
+ /* ******************************************************************************************* */
+ 
+ 
+ 
+ 
+ 
+ /* ******************************************************************************************* */
+ 
+ 
+ 
+ 
+ 
+ /* ******************************************************************************************* */
+ 
+ 
+ 
+
+
+ /* ******************************************************************************************* */
